@@ -1,0 +1,28 @@
+
+html {
+  margin: auto;
+  background-color: #b5b5b5;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  
+}
+
+ul {
+  padding-inline-start: 20px;
+}
+
+.text-gray {
+  color: gray
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-list-item {
+  margin: auto 20px;
+}
